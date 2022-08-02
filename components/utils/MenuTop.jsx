@@ -28,6 +28,7 @@ export default function MenuTop() {
             height={46}
             priority
           />
+            href="https://rvl.finance" target="_blank" rel="noreferrer"
         </a>
       </div>
       <div className="flex-none">
