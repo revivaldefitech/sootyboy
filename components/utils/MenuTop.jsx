@@ -24,7 +24,6 @@ export default function MenuTop() {
           <Image
             src={logoHorizontal}
             alt="Logo"
-            href='https://rvl.finance'
             width={150}
             height={46}
             priority
