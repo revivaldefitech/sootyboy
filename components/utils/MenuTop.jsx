@@ -22,7 +22,7 @@ export default function MenuTop() {
     <div className="navbar max-w-3xl mx-auto mt-2">
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl">
-        <a href="https://rvl.finance/" target="_blank" rel="noopener noreferrer">
+        <a href="https://rvl.finance/" target="_self" rel="noopener noreferrer">
           <Image
             src={logoHorizontal}
             alt="Logo"
