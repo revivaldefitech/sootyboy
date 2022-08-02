@@ -18,6 +18,7 @@ export default function MenuTop() {
   }, [])
 
   return (
+    <Link to = 'https://rvl.finance/'
     <div className="navbar max-w-3xl mx-auto mt-2">
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl">
@@ -28,9 +29,9 @@ export default function MenuTop() {
             height={46}
             priority
           />
-            href="https://rvl.finance" target="_blank" rel="noreferrer"
         </a>
       </div>
+      </link>
       <div className="flex-none">
         <Connect />
       </div>
